@@ -245,7 +245,7 @@ In this example, Windows uses facial recognition to authenticate the RDP session
 
 ![Microsoft Hyper-V Server 2016](images/hyper-v.png "Microsoft Hyper-V Server 2016")
 
-##Windows 10 Pro S Mode requires a network connection (Build 17712)
+## Windows 10 Pro S Mode requires a network connection (Build 17712)
 
 Starting with Windows 10 Pro S Mode build 17712, a network connection is now required to set up a new device. As a result, we removed the “skip for now” option in the network setup page in OOBE. 
 
